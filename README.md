@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shekharkamandar
 - 👀 I’m from Ahemdnagar
-- 🌱 I’m currently learning MSc(Computer Science) at mamasaheb mohol college pune.
+- 🌱 I’m currently in MSc(Computer Science) at mamasaheb mohol college pune.
 - 💞️ I have knowledge of programming language like c,java.
 
 <!---
